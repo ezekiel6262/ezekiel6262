@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Zek 👋
 
-<!--
-**ezekiel6262/ezekiel6262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aerospace Engineer × AI/ML Developer × Web3 Builder × Data Engineer
 
-Here are some ideas to get you started:
+## What I build
+-  **Predictive Maintenance** - RUL prediction for aircraft turbofan engines (NASA CMAPSS)
+-  **Web3 Infrastructure** - On-chain invoicing (Proof Slip, deployed on Polygon)
+-  **Risk Analytics** - DeFi position risk calculator for Perp Protocol 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+`Python` `TensorFlow` `scikit-learn` `Next.js` `Solidity` `AWS` `TypeScript`
+
+## Featured Projects
+- [ Turbofan RUL Prediction](https://github.com/ezekiel6262/turbofan-rul-prediction)
+  - ML + LSTM predictive maintenance on NASA CMAPSS dataset
+- [ Proof Slip](https://github.com/ezekiel6262/proof-slip)
+  - On-chain invoicing infrastructure (Ethereum, Base, Polygon, Solana)
+- [ Extended Protocol Risk Tools](https://github.com/ezekiel6262/RiskCalculator-Extended)
+  - Position risk calculator + whale monitor for Starknet DEX
+
+## Currently
+   Pursuing Masters (MIT/Agribusiness) in New Zealand - 2027
+   Building: AWS ML Specialty | TensorFlow Developer Certificate
+
+📫 larryclues@gmail.com
